@@ -1,0 +1,42 @@
+
+body{ 
+
+     padding: 100%x;
+     box-sizing: border-box;
+     color: black;
+     background-image:linear-gradient(lightblue,lightblue,white,lightblue);
+     font-family: 'Courier New', Courier, monospace
+
+}
+
+h1{  
+     display:flex;
+     justify-content:space-between;
+     box-sizing: border-box;
+
+
+    
+}
+
+h2{
+
+     display:flex;
+     justify-content:space-between;
+     box-sizing: border-box;
+
+
+}
+img{
+     border-radius:10%;
+     width: 20%;
+     height: 20%;
+     aspect-ratio:1/1;
+     box-sizing: border-box;
+
+
+}
+
+
+
+
+
